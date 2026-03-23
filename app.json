@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "design-a-website-for",
-    "slug": "design-a-website-for",
+    "name": "flowerly",
+    "slug": "flowerly",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/natively-dark.png",
+    "icon": "./assets/images/app-icon-hft.png",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/natively-dark.png",
+      "image": "./assets/images/app-icon-hft.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
@@ -20,7 +20,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/natively-dark.png",
+        "foregroundImage": "./assets/images/app-icon-hft.png",
         "backgroundColor": "#000000"
       },
       "package": "com.placeholder.app"
@@ -35,13 +35,13 @@
       "expo-web-browser",
       "expo-secure-store"
     ],
-    "scheme": "designawebsitefor",
+    "scheme": "flowerly",
     "experiments": {
       "typedRoutes": true
     },
     "extra": {
       "router": {},
-      "backendUrl": "https://rpy4ftufkbgk6x8w3kvsk6hedp45gmck.app.specular.dev"
+      "backendUrl": "https://3tyruz7qw25tepged53kxdp8czwk7s8u.app.specular.dev"
     }
   }
 }
