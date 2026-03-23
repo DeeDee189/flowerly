@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "flowerly",
-    "slug": "flowerly",
+    "slug": "flower-ly",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/app-icon-hft.png",
@@ -41,7 +41,7 @@
     },
     "extra": {
       "router": {},
-      "backendUrl": "https://3tyruz7qw25tepged53kxdp8czwk7s8u.app.specular.dev"
+      "backendUrl": "https://vtzz2dhp25m9smed424zp5k9kgukxup3.app.specular.dev"
     }
   }
 }
